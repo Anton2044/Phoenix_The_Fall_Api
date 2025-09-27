@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|c:\\users\\a1592\\source\\repos\\phoenix_the_fall_web_application\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|solutionrelative:controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|c:\\users\\a1592\\source\\repos\\phoenix_the_fall_web_application\\phoenix the fall web application.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|solutionrelative:phoenix the fall web application.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a1592\\source\\repos\\Phoenix The Fall Web application\\Migrations\\20250511150731_InitialCreate23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|c:\\users\\a1592\\source\\repos\\phoenix_the_fall_web_application\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|c:\\users\\a1592\\source\\repos\\phoenix_the_fall_web_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|c:\\users\\a1592\\source\\repos\\phoenix_the_fall_web_application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|c:\\users\\a1592\\source\\repos\\phoenix_the_fall_web_application\\controllers\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|solutionrelative:controllers\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|c:\\users\\a1592\\source\\repos\\phoenix_the_fall_web_application\\migrations\\20250514121925_initialcreatea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|solutionrelative:migrations\\20250514121925_initialcreatea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|c:\\users\\a1592\\source\\repos\\phoenix_the_fall_web_application\\migrations\\yourdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|solutionrelative:migrations\\yourdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a1592\\source\\repos\\Phoenix The Fall Web application\\Migrations\\20250511150609_InitialCreate22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a1592\\source\\repos\\Phoenix The Fall Web application\\Migrations\\20250511150716_InitialCreate23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|c:\\users\\a1592\\source\\repos\\phoenix_the_fall_web_application\\migrations\\20250511150845_initialcreate23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|solutionrelative:migrations\\20250511150845_initialcreate23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|c:\\users\\a1592\\source\\repos\\phoenix_the_fall_web_application\\migrations\\20250524160128_granates2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|solutionrelative:migrations\\20250524160128_granates2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|c:\\users\\a1592\\source\\repos\\phoenix_the_fall_web_application\\migrations\\20250524152757_granates1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|solutionrelative:migrations\\20250524152757_granates1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|c:\\users\\a1592\\source\\repos\\phoenix_the_fall_web_application\\migrations\\20250525071915_granate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC7AB0B-F704-401D-94C6-AE8E453092CD}|Phoenix The Fall Web application.csproj|solutionrelative:migrations\\20250525071915_granate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Phoenix The Fall Web application",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Phoenix The Fall Web application.csproj",
+              "RelativeDocumentMoniker": "Phoenix The Fall Web application.csproj",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Phoenix The Fall Web application.csproj",
+              "RelativeToolTip": "Phoenix The Fall Web application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-27T15:59:02.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "Controllers\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:14:40.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250511150731_InitialCreate23.cs",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix The Fall Web application\\Migrations\\20250511150731_InitialCreate23.cs",
+              "RelativeDocumentMoniker": "..\\Phoenix The Fall Web application\\Migrations\\20250511150731_InitialCreate23.cs",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix The Fall Web application\\Migrations\\20250511150731_InitialCreate23.cs",
+              "RelativeToolTip": "..\\Phoenix The Fall Web application\\Migrations\\20250511150731_InitialCreate23.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:07:31.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250511150716_InitialCreate23.cs",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix The Fall Web application\\Migrations\\20250511150716_InitialCreate23.cs",
+              "RelativeDocumentMoniker": "..\\Phoenix The Fall Web application\\Migrations\\20250511150716_InitialCreate23.cs",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix The Fall Web application\\Migrations\\20250511150716_InitialCreate23.cs",
+              "RelativeToolTip": "..\\Phoenix The Fall Web application\\Migrations\\20250511150716_InitialCreate23.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:07:16.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:02:09.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250511150609_InitialCreate22.cs",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix The Fall Web application\\Migrations\\20250511150609_InitialCreate22.cs",
+              "RelativeDocumentMoniker": "..\\Phoenix The Fall Web application\\Migrations\\20250511150609_InitialCreate22.cs",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix The Fall Web application\\Migrations\\20250511150609_InitialCreate22.cs",
+              "RelativeToolTip": "..\\Phoenix The Fall Web application\\Migrations\\20250511150609_InitialCreate22.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:06:09.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAhwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:43:05.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T14:59:07.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250524152757_Granates1.cs",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Migrations\\20250524152757_Granates1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250524152757_Granates1.cs",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Migrations\\20250524152757_Granates1.cs",
+              "RelativeToolTip": "Migrations\\20250524152757_Granates1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:27:57.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250525071915_Granate3.cs",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Migrations\\20250525071915_Granate3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250525071915_Granate3.cs",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Migrations\\20250525071915_Granate3.cs",
+              "RelativeToolTip": "Migrations\\20250525071915_Granate3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:19:16.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250524160128_Granates2.cs",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Migrations\\20250524160128_Granates2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250524160128_Granates2.cs",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Migrations\\20250524160128_Granates2.cs",
+              "RelativeToolTip": "Migrations\\20250524160128_Granates2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:01:28.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250514121925_InitialCreatea.cs",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Migrations\\20250514121925_InitialCreatea.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250514121925_InitialCreatea.cs",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Migrations\\20250514121925_InitialCreatea.cs",
+              "RelativeToolTip": "Migrations\\20250514121925_InitialCreatea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:19:25.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Controllers\\DbContext.cs",
+              "RelativeDocumentMoniker": "Controllers\\DbContext.cs",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Controllers\\DbContext.cs",
+              "RelativeToolTip": "Controllers\\DbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:57:03.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YourDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Migrations\\YourDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\YourDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Migrations\\YourDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\YourDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:24:52.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250511150845_InitialCreate23.cs",
+              "DocumentMoniker": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Migrations\\20250511150845_InitialCreate23.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250511150845_InitialCreate23.cs",
+              "ToolTip": "C:\\Users\\a1592\\source\\repos\\Phoenix_The_Fall_Web_application\\Migrations\\20250511150845_InitialCreate23.cs",
+              "RelativeToolTip": "Migrations\\20250511150845_InitialCreate23.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:08:45.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

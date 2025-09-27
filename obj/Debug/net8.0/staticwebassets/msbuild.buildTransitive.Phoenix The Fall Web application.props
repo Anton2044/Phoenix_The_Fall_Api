@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Phoenix The Fall Web application.props" />
+</Project>
