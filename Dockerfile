@@ -21,4 +21,4 @@ RUN dotnet publish "Phoenix The Fall Web application.csproj" -c Release -o /app/
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "Phoenix The Fall Api.dll"]
+ENTRYPOINT ["dotnet", "Phoenix The Fall Web application.dll"]
