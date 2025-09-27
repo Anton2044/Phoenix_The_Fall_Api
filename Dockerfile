@@ -7,7 +7,7 @@ EXPOSE 443
 # Образ для сборки
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
-COPY ["Phoenix The Fall Api.csproj", "."]
+COPY ["Phoenix The Fall Web application.csproj", "."]
 RUN dotnet restore "Phoenix The Fall Web application.csproj"
 COPY . .
 WORKDIR "/src"
